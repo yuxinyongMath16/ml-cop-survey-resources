@@ -6,7 +6,7 @@ A curated collection of references and comparative tables for the survey on Mach
 
 ## 📚 Overview
 This repository contains curated resources supporting the survey paper:
-**"[Your Paper Title]"** (currently under review).
+**"Machine Learning-Driven Combinatorial Optimization: A Systematic Review"** (currently under review).
 
 ## 📂 Repository Structure
 
@@ -45,8 +45,8 @@ This repository contains curated resources supporting the survey paper:
 If you use these resources, please cite:
 ```bibtex
 @article{yourpaper2025,
-  title={Your Paper Title},
-  author={Your Name and Co-authors},
-  journal={Target Journal},
+  title={Machine Learning-Driven Combinatorial Optimization: A Systematic Review},
+  author={Co-authors},
+  journal={Journal},
   year={2025}
 }
