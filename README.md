@@ -31,6 +31,12 @@ This repository contains curated resources supporting the survey paper:
 | Reinforcement Learning | DQN, PPO, SAC | No labels needed, adaptive | Sample inefficient | Dynamic scheduling |
 | Unsupervised Learning | GAN, VAE, Diffusion | Diverse solutions, no labels | Training instability | Routing, layout |
 | LLM-based | GPT, Llama, Gemini | Natural language interface | Computationally expensive | Code generation |
+| Supervised Learning | PtrNet, GNN, Transformer | Fast inference, good convergence | Requires labeled data | TSP, VRP, JSSP |
+| Reinforcement Learning | DQN, PPO, SAC | No labels needed, adaptive | Sample inefficient | Dynamic scheduling |
+| Unsupervised Learning | GAN, VAE, Diffusion | Diverse solutions, no labels | Training instability | Routing, layout |
+| LLM-based | GPT, Llama, Gemini | Natural language interface | Computationally expensive | Code generation |
+
+
 
 ## 🔗 Quick Links
 
