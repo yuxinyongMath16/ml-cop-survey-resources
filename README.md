@@ -20,10 +20,7 @@ This repository contains curated resources supporting the survey paper:
 - `/tables/problems_overview.md`: Overview of combinatorial optimization problems covered
 - `/tables/datasets_summary.md`: Summary of benchmark datasets
 
-### 3. Datasets & Benchmarks
-- `/datasets/links.md`: Links to publicly available datasets
-
-### 4. Code Resources
+### 3. Code Resources
 - `/code_examples/`: Links to open-source implementations of discussed methods
 
 ## 📊 Main Comparative Table (Preview)
