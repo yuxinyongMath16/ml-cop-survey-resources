@@ -22,14 +22,48 @@ This repository contains curated resources supporting the survey paper:
 | Unsupervised Learning | GAN, VAE, Diffusion | Diverse solutions, no labels | Training instability | Routing, layout |
 | LLM-based | GPT, Llama, Gemini | Natural language interface | Computationally expensive | Code generation |
 
+## UL4COP
 
+# Unsupervised Learning for Combinatorial Optimization Problem - Literature Comparison Table
+
+| # | Reference | Category | Problem | Method | Results | Code |
+|---|-----------|----------|---------|--------|---------|------|
+| 1 | [Sun et al. 2023]() | Diffusion Models | TSP, MIS | DIFUSCO: Graph denoising diffusion models, discrete {0,1}-vector optimization, dual Gaussian/Bernoulli noise diffusion, graph-based diffusion | State-of-the-art performance on TSP | |
+| 2 | [Huang et al. 2023]() | Diffusion Models | TSP | Progressive distillation technique to compress iterative steps, predicts multi-step noise residuals for single-step updates | Significantly reduces inference latency while maintaining solution quality | |
+| 3 | [Xue et al. 2024]() | Diffusion Models | 2D Irregular Bin Packing | Attention-based gradient-field learning, geometric encoding for polygon rotations, boundary-condition constraints | Surpasses RL baselines in material utilization, 10x faster inference | |
+| 4 | [Sanokowski et al. 2024]() | Diffusion Models | General COPs | DiffUCO: Label-free diffusion model, Joint Variational Upper Bound for unsupervised training, discrete diffusion with temperature annealing | Enables direct sampling of high-quality solutions without labeled data | |
+| 5 | [Hong et al. 2024]() | Diffusion Models | General COPs | IC/DC framework: Eliminates dependence on pretrained data, self-supervised losses, constraint-satisfaction mechanisms | Removes need for post-hoc search | |
+| 6 | [Wang et al. 2025]() | Diffusion Models | TSP | DEITSP: Dual-modal graph Transformer for feature fusion, iterative strategy for enhanced exploration | Accelerated feature fusion, improved exploration capability | |
+| 7 | [Wang et al. 2023]() | GANs | General COPs | GIRL framework: Integration of inverse RL with GANs, self-attention-based policy network generates 2-opt heuristic rules | Addresses sparse-reward issue, mitigates training instability | |
+| 8 | [Zhang et al. 2025]() | GANs | Routing Problems | Adversarial Generative Flow Network: Replaces Transformer with generative flow network, discriminator contrasts original and optimized solutions | Breaks scalability bottleneck, produces diverse routing solutions | |
+| 9 | [Guo et al. 2020]() | GANs | Multi-objective Optimization | Multi-objective combinatorial GAN: Uses non-dominated solutions as real data, adaptive parameter tuning, decimal-encoding decoding | 35% speedup over NSGA-II on group-aware participant selection | |
+| 10 | [Chen et al. 2019]() | GANs | General COPs | DCG-EA/I: Negative-sample exploitation mechanism, reconstructs low-quality solutions into pseudo-positive samples, integrates 2-opt local search | Addresses mode collapse issue, enhances solution feasibility | |
+| 11 | [Yu et al. 2022]() | GANs | Discrete Optimization | PGAN-CEA: Combines policy gradients with Monte Carlo simulation | Improves GANs' ability to generate high-quality discrete solutions | |
+| 12 | [Zhang et al. 2024]() | GANs | 3D Bin Packing | Hybrid GAN-GA model: Generates spatial item layouts | Improves packing utilization by 4.7% | |
+| 13 | [Bentley et al. 2023]() | VAEs | Robotic Scheduling | COIL: Integration of VAEs with optimizers, encodes historical schedules into latent space, GA optimization in latent space | Satisfies robot parallelism constraints through latent space encoding | |
+| 14 | [Onsu et al. 2025]() | VAEs | Service Function Chain Deployment | Generative VAE-assisted DRL for 5G networks, compresses network states into latent representations, end-to-end latency penalty term | Optimizes SFC deployment with sub-10 ms delay requirement | |
+| 15 | [Chen et al. 2023]() | VAEs | Active Distribution Networks | VAE-enhanced TD3 algorithm, encodes multi-site energy-storage states into latent variables capturing spatio-temporal coupling | Minimizes overall system operating costs | |
+| 16 | [Bhattacharjee et al. 2019]() | VAEs | Complex Benchmark Problems (Trap-k) | VAE-EDA-Q: Embeds VAE into estimation-of-distribution algorithm, adaptive variance scaling for sampling diversity | 5x speedup in convergence over BOA algorithm on Trap-13 | |
+| 17 | [Wang et al. 2024]() | VAEs | Task Offloading and Resource Allocation | CARMARL: Conditional VAE for hybrid discrete-continuous decisions, reward-constrained policy optimization | 25.2% increase in completion rate of intelligent connected vehicle tasks | |
+| 18 | [Yao et al. 2019]() | VAEs | Content Pre-caching | CVAE for user mobility trajectory prediction, optimizes small-cell content pre-caching strategies | Reduces handover latency | |
+| 19 | [Nouri et al. 2024]() | VAEs | O-RAN Slicing | Semi-supervised resource allocator: Combines VAEs with contrastive learning | 14% improvement in physical resource block allocation accuracy | |
+| 20 | [Li et al. 2024]() | VAEs | Industrial Sensor Resource Allocation | DT-VAE evaluation mechanism based on digital twins, virtual-physical consistency analysis | Improves cooperative sensing accuracy | |
+| 21 | [Shanmugham et al. 2024]() | VAEs | MANETs Routing | Self-attention-based CVAE-GAN routing paradigm, strengthens node state representations | 22% reduction in energy consumption for multipath routing | |
+| 22 | [Yao et al. 2019]() | Discriminative Models | MAX-CUT | Investigation of unsupervised GNNs on random MAX-CUT, approximates SDP benchmark without label supervision | Demonstrates GNNs can approximate SDP benchmark | |
+| 23 | [Karalias et al. 2020]() | Discriminative Models | Cliques, Vertex Covers, Independent Sets | Mathematically grounded unsupervised framework, parameterizes distribution over sets, derandomization strategy | Provides theoretical guarantees for solution quality and feasibility | |
+| 24 | [Schuetz et al. 2022]() | Discriminative Models | QUBO Problems | Physics-inspired GNN: Hamiltonian minimization, reformulates COPs as QUBO tasks, continuous relaxation for binary variables | Lays theoretical foundation for directly solving COPs with GNNs | |
+| 25 | [Toenshoff et al. 2021]() | Discriminative Models | Binary Max Constraint Satisfaction | Unsupervised recurrent GNN, constraint graph as substrate, single-LSTM unit with linear layers | Directly maximizes number of satisfied constraints | |
+| 26 | [Boisvert et al. 2024]() | Discriminative Models | SAT, Graph Coloring, TSP, Knapsack | AST-based encoding framework, generic injective graph representation function, unifies expression of diverse problems | Facilitates structural knowledge sharing across tasks | |
+| 27 | [Bai et al. 2025]() | Discriminative Models | Graph and Hypergraph Partitioning | Deep-Grouping framework: Unifies graph and hypergraph partitioning, Gini-index-based continuous relaxation annealing | Balances differentiable optimization and discrete convergence | |
+| 28 | [Liao et al. 2025]() | Discriminative Models | Dynamic Combinatorial Optimization | DyCO-GNN: Temporally continuous structural embedding, GNN parameters shared across temporal snapshots | Enables fast updates on continuous-time graphs without offline training data | |
+| 29 | [Min et al. 2025]() | Discriminative Models | Quadratic Assignment Problem | Permutation-invariant method, introduces permutation-symmetric constraints into objective | Enhances model generalization and scalability | |
 
 ## LLM4COP
 # LLM for Combinatorial Optimization Problem - Literature Comparison Table
 
-| # | Reference | Category | Problem | Key Features | Performance/Results | Code |
-|---|-----------------------------------------------------|----------|---------|--------------|---------------------|------|
-| 1 | [Yang et al. 2024]() | LLM as Optimizer | General Optimization | OPRO framework: Treats LLM as a general-purpose optimizer, uses natural language problem descriptions, zero-shot solution generation | Performance comparable to specialized solvers | [Available](https://github.com/google-deepmind/opro) |
+| # | Reference | Category | Problem | Method | Results | Code |
+|---|-----------|----------|---------|--------|---------|------|
+| 1 | [Yang et al. 2024]() | LLM as Optimizer | General Optimization | OPRO framework: Treats LLM as general-purpose optimizer, uses natural language problem descriptions, zero-shot solution generation | Performance comparable to specialized solvers | [Available](https://github.com/google-deepmind/opro) |
 | 2 | [Huang et al. 2025]() | LLM as Optimizer | High-dimensional Problems | Multimodal perception mechanism: Fuses XML-structured text with node-distribution images to enhance spatial topology understanding | Enhances modeling of dependencies among decision variables | |
 | 3 | [Elhenawy et al. 2024]() | LLM as Optimizer | m-TSP | Multi-agent collaborative framework: Specialized agents for fine-grained optimization | Zero-shot performance comparable to self-supervised learning methods | [Available](https://github.com/ahmed-abdulhuy/) |
 | 4 | [Abgaryan et al. 2024]() | LLM as Optimizer | JSSP | Constructs large-scale natural language JSSP dataset (120k samples), LoRA-based lightweight fine-tuning | Worktime optimization performance comparable to GNNs | |
