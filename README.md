@@ -8,20 +8,6 @@ A curated collection of references and comparative tables for the survey on Mach
 This repository contains curated resources supporting the survey paper:
 **"Machine Learning-Driven Combinatorial Optimization: A Systematic Review"** (currently under review).
 
-## 📂 Repository Structure
-
-### 1. References
-- `/references/bibtex/all_references.bib`: Complete BibTeX file of all cited works
-- `/references/bibtex/by_year/`: References organized by publication year
-- `/references/bibtex/by_topic/`: References organized by research topic
-
-### 2. Comparative Tables
-- `/tables/methods_comparison.md`: Detailed comparison of ML methods for COPs
-- `/tables/problems_overview.md`: Overview of combinatorial optimization problems covered
-- `/tables/datasets_summary.md`: Summary of benchmark datasets
-
-### 3. Code Resources
-- `/code_examples/`: Links to open-source implementations of discussed methods
 
 ## 📊 Main Comparative Table (Preview)
 
