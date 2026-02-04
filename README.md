@@ -9,18 +9,38 @@ This repository contains curated resources supporting the survey paper:
 **"Machine Learning-Driven Combinatorial Optimization: A Systematic Review"** (currently under review).
 
 
-## 📊 Main Comparative Table (Preview)
+## 📊 Review Article
+# A Comparative Review of Machine Learning Approaches for Solving COPs
 
-| Method Type | Key Models | Strengths | Limitations | Applications |
-|-------------|------------|-----------|-------------|--------------|
-| Supervised Learning | PtrNet, GNN, Transformer | Fast inference, good convergence | Requires labeled data | TSP, VRP, JSSP |
-| Reinforcement Learning | DQN, PPO, SAC | No labels needed, adaptive | Sample inefficient | Dynamic scheduling |
-| Unsupervised Learning | GAN, VAE, Diffusion | Diverse solutions, no labels | Training instability | Routing, layout |
-| LLM-based | GPT, Llama, Gemini | Natural language interface | Computationally expensive | Code generation |
-| Supervised Learning | PtrNet, GNN, Transformer | Fast inference, good convergence | Requires labeled data | TSP, VRP, JSSP |
-| Reinforcement Learning | DQN, PPO, SAC | No labels needed, adaptive | Sample inefficient | Dynamic scheduling |
-| Unsupervised Learning | GAN, VAE, Diffusion | Diverse solutions, no labels | Training instability | Routing, layout |
-| LLM-based | GPT, Llama, Gemini | Natural language interface | Computationally expensive | Code generation |
+| Literature | SL | UL | Q-Learning | DRL | LLM | RP | SP | Other probs. |
+|------------|----|----|------------|-----|-----|----|----|--------------|
+| [Talbi et al. 2021]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Li et al. 2021]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Karimi-Mamaghan et al. 2022]() | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| [Li et al. 2022]() | ✓ | ✗ | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ |
+| [Mazyavkina et al. 2022]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Qin et al. 2022]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✓ |
+| [Da Costa Oliveira et al. 2023]() | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ |
+| [Zhang et al. 2023]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Zhang et al. 2023]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ |
+| [Szénási et al. 2024]() | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| [Zhang et al. 2024]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Yang et al. 2024]() | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| [Modrak et al. 2024]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Jalali Khalil Abadi et al. 2024]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Erdem et al. 2024]() | ✓ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
+| [Fu et al. 2024]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Smit et al. 2025]() | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Lv et al. 2025]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Martins et al. 2025]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Chung et al. 2025]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Arishi et al. 2025]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
+| [Sui et al. 2025]() | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ | ✗ |
+| [Wu et al. 2025]() | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ |
+| [Zhang et al. 2025]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Da Ros et al. 2025]() | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ |
+| [Tao et al. 2025]() | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [Ours]() | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ## UL4COP
 
