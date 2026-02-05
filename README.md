@@ -14,7 +14,7 @@ This repository contains curated resources supporting the survey paper:
 
 | Literature | SL | UL | Q-Learning | DRL | LLM | RP | SP | Other probs. |
 |------------|----|----|------------|-----|-----|----|----|--------------|
-| [Talbi et al. 2021]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Talbi et al. 2021](https://doi.org/10.1145/3459664) | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Li et al. 2021]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Karimi-Mamaghan et al. 2022]() | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
 | [Li et al. 2022]() | ✓ | ✗ | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ |
