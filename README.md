@@ -26,20 +26,20 @@ This repository contains curated resources supporting the survey paper:
 | [Szénási et al. 2024](https://doi.org/10.1016/j.eswa.2024.125192) | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
 | [Zhang et al. 2024](https://doi.org/10.1016/j.jmsy.2024.10.026) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
 | [Yang et al. 2024](https://doi.org/10.1002/widm.1548) | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
-| [Modrak et al. 2024]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Jalali Khalil Abadi et al. 2024]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Erdem et al. 2024]() | ✓ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
-| [Fu et al. 2024]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Smit et al. 2025]() | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Lv et al. 2025]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Martins et al. 2025]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
-| [Chung et al. 2025]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
-| [Arishi et al. 2025]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
-| [Sui et al. 2025]() | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ | ✗ |
-| [Wu et al. 2025]() | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ |
-| [Zhang et al. 2025]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
-| [Da Ros et al. 2025]() | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ |
-| [Tao et al. 2025]() | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [Modrak et al. 2024](https://doi.org/10.3390/a17080343) | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Jalali Khalil Abadi et al. 2024](https://doi.org/10.1007/s10115-024-02167-7) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Erdem et al. 2024](https://doi.org/10.1007/s11831-025-10356-y) | ✓ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
+| [Fu et al. 2024](https://doi.org/10.1016/j.compeleceng.2024.109780) | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Smit et al. 2025](https://doi.org/10.1016/j.cor.2024.106914) | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Lv et al. 2025](https://doi.org/10.1016/j.knosys.2025.113633) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Martins et al. 2025](A systematic review on reinforcement learning for industrial combinatorial optimization problems) | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Chung et al. 2025](https://doi.org/10.1007/s10462-024-11045-1) | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Arishi et al. 2025](https://doi.org/10.1016/j.compeleceng.2025.110529) | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
+| [Sui et al. 2025](https://doi.org/10.1007/s11704-024-40490-y) | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ | ✗ |
+| [Wu et al. 2025](https://ieeexplore.ieee.org/abstract/document/10767756) | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ |
+| [Zhang et al. 2025](https://doi.org/10.1007/s10462-025-11266-y) | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Da Ros et al. 2025](https://arxiv.org/abs/2507.03637) | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ |
+| [Tao et al. 2025](https://arxiv.org/abs/2507.03637) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Ours]() | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ## UL4COP
