@@ -48,7 +48,7 @@ This repository contains curated resources supporting the survey paper:
 
 | # | Reference | Category | Problem | Method | Results | Code |
 |---|-----------|----------|---------|--------|---------|------|
-| 1 | [Sun et al. 2023](https://www.mdpi.com/2076-3417/15/3/1211) | Diffusion Models | TSP, MIS | DIFUSCO: Graph denoising diffusion models, discrete {0,1}-vector optimization, dual Gaussian/Bernoulli noise diffusion, graph-based diffusion | State-of-the-art performance on TSP | [Available](https://github.com/Edward-Sun/DIFUSCO]|
+| 1 | [Sun et al. 2023](https://www.mdpi.com/2076-3417/15/3/1211) | Diffusion Models | TSP, MIS | DIFUSCO: Graph denoising diffusion models, discrete {0,1}-vector optimization, dual Gaussian/Bernoulli noise diffusion, graph-based diffusion | State-of-the-art performance on TSP | [Available](https://github.com/Edward-Sun/DIFUSCO)|
 | 2 | [Huang et al. 2023]() | Diffusion Models | TSP | Progressive distillation technique to compress iterative steps, predicts multi-step noise residuals for single-step updates | Significantly reduces inference latency while maintaining solution quality | |
 | 3 | [Xue et al. 2024]() | Diffusion Models | 2D Irregular Bin Packing | Attention-based gradient-field learning, geometric encoding for polygon rotations, boundary-condition constraints | Surpasses RL baselines in material utilization, 10x faster inference | |
 | 4 | [Sanokowski et al. 2024]() | Diffusion Models | General COPs | DiffUCO: Label-free diffusion model, Joint Variational Upper Bound for unsupervised training, discrete diffusion with temperature annealing | Enables direct sampling of high-quality solutions without labeled data | |
