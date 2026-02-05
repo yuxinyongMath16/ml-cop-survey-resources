@@ -32,7 +32,7 @@ This repository contains curated resources supporting the survey paper:
 | [Fu et al. 2024](https://doi.org/10.1016/j.compeleceng.2024.109780) | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
 | [Smit et al. 2025](https://doi.org/10.1016/j.cor.2024.106914) | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
 | [Lv et al. 2025](https://doi.org/10.1016/j.knosys.2025.113633) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Martins et al. 2025](A systematic review on reinforcement learning for industrial combinatorial optimization problems) | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Martins et al. 2025](https://doi.org/10.3390/app15031211) | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Chung et al. 2025](https://doi.org/10.1007/s10462-024-11045-1) | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Arishi et al. 2025](https://doi.org/10.1016/j.compeleceng.2025.110529) | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
 | [Sui et al. 2025](https://doi.org/10.1007/s11704-024-40490-y) | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ | ✗ |
