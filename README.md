@@ -18,14 +18,14 @@ This repository contains curated resources supporting the survey paper:
 | [Li et al. 2021](https://aas.net.cn/cn/article/pdf/preview/10.16383/j.aas.c200551.pdf) | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Karimi-Mamaghan et al. 2022](https://doi.org/10.1016/j.ejor.2021.04.032) | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
 | [Li et al. 2022](https://xplorestaging.ieee.org/document/9812526) | ✓ | ✗ | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ |
-| [Mazyavkina et al. 2022]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
-| [Qin et al. 2022]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✓ |
-| [Da Costa Oliveira et al. 2023]() | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ |
-| [Zhang et al. 2023]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
-| [Zhang et al. 2023]() | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ |
-| [Szénási et al. 2024]() | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
-| [Zhang et al. 2024]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
-| [Yang et al. 2024]() | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| [Mazyavkina et al. 2022](https://doi.org/10.1016/j.cor.2021.105400) | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Qin et al. 2022](https://doi.org/10.1016/j.trc.2022.103852) | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✓ |
+| [Da Costa Oliveira et al. 2023](https://link.springer.com/content/pdf/10.1007/s00500-023-08886-3.pdf?utm_source=clarivate&getft_integrator=clarivate) | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ |
+| [Zhang et al. 2023](https://doi.org/10.1016/j.neucom.2022.11.024) | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| [Zhang et al. 2023](https://doi.org/10.1049/cim2.12072) | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ |
+| [Szénási et al. 2024](https://doi.org/10.1016/j.eswa.2024.125192) | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| [Zhang et al. 2024](https://doi.org/10.1016/j.jmsy.2024.10.026) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
+| [Yang et al. 2024](https://doi.org/10.1002/widm.1548) | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
 | [Modrak et al. 2024]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ |
 | [Jalali Khalil Abadi et al. 2024]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ |
 | [Erdem et al. 2024]() | ✓ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ |
