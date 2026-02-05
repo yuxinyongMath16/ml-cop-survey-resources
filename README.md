@@ -16,7 +16,7 @@ This repository contains curated resources supporting the survey paper:
 |------------|----|----|------------|-----|-----|----|----|--------------|
 | [Talbi et al. 2021](https://doi.org/10.1145/3459664) | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Li et al. 2021]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
-| [Karimi-Mamaghan et al. 2022]() | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| [Karimi-Mamaghan et al. 2022](https://doi.org/10.1016/j.ejor.2021.04.032) | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
 | [Li et al. 2022]() | ✓ | ✗ | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ |
 | [Mazyavkina et al. 2022]() | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
 | [Qin et al. 2022]() | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✓ |
