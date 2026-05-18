@@ -42,6 +42,8 @@ This repository contains curated resources supporting the survey paper:
 | [Tao et al. 2025](https://arxiv.org/abs/2507.03637) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Ours]() | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
+## SL4COP
+
 # Supervised Learning for Combinatorial Optimization Problem - Literature Comparison Table
 
 | # | Reference | Category | Problem | Method | Results | Code |
@@ -87,6 +89,7 @@ This repository contains curated resources supporting the survey paper:
 | 39 | [Shang et al. 2023](https://ideas.repec.org/a/wly/jnljam/v2023y2023i1n4573352.html) | SL + Metaheuristics | Multi-objective FJSP | CNN-LSTM-GA hybrid; CNN extracts spatial features; LSTM for temporal dependencies | Better global search & robustness | |
 | 40 | [Lisirui et al. 2025](https://www.semanticscholar.org/paper/Learning-Guided-Rolling-Horizon-Optimization-for-Li-Ouyang/903d8c4c5983f3f76571a40361f2041314914784) | SL + Hyper-Heuristics | Long-horizon FJSP | Learning-guided rolling horizon optimization; MLP identifies non-reoptimized operations | Reduces redundant computation | [Available](https://github.com/mit-wu-lab/l-rho) |
 
+## DRL4COP
 
 # Deep Reinforcement Learning for Combinatorial Optimization Problem - Literature Comparison Table
 
